@@ -18,9 +18,9 @@
 
 
 <a name="2025"></a>
-|                                 |                                 |                                 |                                 | 
-|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| [2025 April](#2025-April)       | [2025 March](#2025-March)        | [2025 February](#2025-February)  | [2025 January](#2025-January)   |
+|                                 |                                 |                                 |                                 |                                 | 
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| [2025 May](#2025-May)       | [2025 April](#2025-April)       | [2025 March](#2025-March)        | [2025 February](#2025-February)  | [2025 January](#2025-January)   |
 
 
 <a name="2024"></a>
@@ -30,19 +30,19 @@
 | [2024 June](#2024-June)         | [2024 May](#2024-May)           | [2024 April](#2024-Apri)        | [2024 March](#2024-March)         | [2024 February](#2024-February)   | [2024 January](#2024-January)     | 
 
 ## 🔥Latest News
-## 🥇ICML 2025
-- [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/pdf/2502.14802)
-- [LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs -- No Silver Bullet for LC or RAG Routing](https://arxiv.org/pdf/2502.09977)
-- [RAGGED: Towards Informed Design of Retrieval Augmented Generation Systems](https://arxiv.org/pdf/2403.09040)
-- [DocKS-RAG: Optimizing Document-Level Relation Extraction through LLM-Enhanced Hybrid Prompt Tuning (No link yet)](https://github.com/liunian-Jay/Awesome-RAG)
-- [Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification](https://arxiv.org/pdf/2504.04578)
-- [On the Vulnerability of Applying Retrieval-Augmented Generation within Knowledge-Intensive Application Domains](https://arxiv.org/pdf/2409.17275)
-- [C-3PO: Compact Plug-and-Play Proxy Optimization to Achieve Human-like Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.06205)
-- [Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/pdf/2502.20330)
-- [Position: Retrieval-augmented systems are currently dangerous medical communicators](https://arxiv.org/pdf/2502.14898v1)
 
+### 🔥2025 May
+- May 22 [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMsvia Reinforcement Learning](https://arxiv.org/pdf/2505.17005)
+- May 22 [SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis](https://arxiv.org/pdf/2505.16834)
+- May 22 [Attributing Response to Context: A Jensen–Shannon Divergence Driven Mechanistic Study of Context Attribution in Retrieval-Augmented Generation](https://arxiv.org/pdf/2505.16415)
+- May 21 [Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains](https://arxiv.org/pdf/2505.16014)
+- May 19 [Finetune-RAG: Fine-Tuning Language Models to Resist Hallucination in Retrieval-Augmented Generation](https://arxiv.org/pdf/2505.10792)
+- May 8 [Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning](https://arxiv.org/pdf/2503.06034)
+- May 6 [An Analysis of Hyper-Parameter Optimization Methods for Retrieval Augmented Generation](https://arxiv.org/pdf/2505.03452)
+- May 5 [Direct Retrieval-augmented Optimization: Synergizing Knowledge Selection and Language Models](https://arxiv.org/pdf/2505.03075)
+- May 2 [Retrieval Augmented Learning: A Retrial-based Large Language Model Self-Supervised Learning and Autonomous Knowledge Generation](https://arxiv.org/pdf/2505.01073)
   
-### 🔥2025 April
+### 🍭2025 April
 - Apri 25 [DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering](https://arxiv.org/pdf/2504.18243)
 - Apri 23 [Credible plan-driven RAG method for Multi-hop Question Answering](https://arxiv.org/pdf/2504.16787)
 - Apri 22 [Exploiting Contextual Knowledge in LLMs through V-usable Information based Layer Enhancement](https://arxiv.org/pdf/2504.15630)
@@ -95,6 +95,17 @@
 - Jan 7 [Retrieval-Augmented Generation by Evidence Retroactivity in LLMs](https://arxiv.org/pdf/2501.05475)
 - Jan 2 [Synergistic Multi-Agent Framework with Trajectory Learning for Knowledge-Intensive Tasks](https://arxiv.org/pdf/2407.09893)
 
+## 🥇ICML 2025
+- [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/pdf/2502.14802)
+- [LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs -- No Silver Bullet for LC or RAG Routing](https://arxiv.org/pdf/2502.09977)
+- [RAGGED: Towards Informed Design of Retrieval Augmented Generation Systems](https://arxiv.org/pdf/2403.09040)
+- [DocKS-RAG: Optimizing Document-Level Relation Extraction through LLM-Enhanced Hybrid Prompt Tuning (No link yet)](https://github.com/liunian-Jay/Awesome-RAG)
+- [Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification](https://arxiv.org/pdf/2504.04578)
+- [On the Vulnerability of Applying Retrieval-Augmented Generation within Knowledge-Intensive Application Domains](https://arxiv.org/pdf/2409.17275)
+- [C-3PO: Compact Plug-and-Play Proxy Optimization to Achieve Human-like Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.06205)
+- [Long-Context Inference with Retrieval-Augmented Speculative Decoding](https://arxiv.org/pdf/2502.20330)
+- [Position: Retrieval-augmented systems are currently dangerous medical communicators](https://arxiv.org/pdf/2502.14898v1)
+  
 ## 🥇ICLR 2025
 - [SePer: Measure Retrieval Utility Through The Lens Of Semantic Perplexity Reduction](https://openreview.net/pdf?id=ixMBnOhFGd)
 - [Inference Scaling for Long-Context Retrieval Augmented Generation](https://arxiv.org/pdf/2410.04343)
