@@ -6,6 +6,7 @@
 
 
 ## 📕Overview
+- [ACL 2025](#ACL-2025)
 - [ICML 2025](#ICML-2025)
 - [ICLR 2025](#ICLR-2025)
 - [NIPS 2024](#NIPS-2024)
@@ -30,6 +31,115 @@
 | [2024 June](#2024-June)         | [2024 May](#2024-May)           | [2024 April](#2024-Apri)        | [2024 March](#2024-March)         | [2024 February](#2024-February)   | [2024 January](#2024-January)     | 
 
 ## 🔥Latest News
+## 🥇ACL 2024
+$main$  
+
+- [GainRAG: Preference Alignment in Retrieval-Augmented Generation through Gain Signal Synthesis](https://arxiv.org/pdf/2505.18710) [\[Code\]](https://github.com/liunian-Jay/GainRAG)
+- [RPO: Retrieval Preference Optimization for Robust Retrieval-Augmented Generation](https://arxiv.org/pdf/2501.13726v1)
+- [RAG-Critic: Leveraging Automated Critic-Guided Agentic Workflow for Retrieval Augmented Generation]
+- [Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning](https://arxiv.org/pdf/2410.10360)
+- [RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts](https://arxiv.org/pdf/2502.17888)
+- [RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models](https://arxiv.org/pdf/2412.02830)
+- [FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation]
+- [HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases]
+- [MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation]
+- [DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation]
+- [Hierarchical Document Refinement for Long-context Retrieval-augmented Generation]
+- [Sparse Latents Steer Retrieval-Augmented Generation]
+- [SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model]
+- [MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System]
+- [HoH: A Dynamic Benchmark for Evaluating the Impact of Outdated Information on Retrieval-Augmented Generation]
+- [Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications]
+- [Optimizing Question Semantic Space for Dynamic Retrieval-Augmented Multi-hop Question Answering]
+- [KiRAG: Knowledge-Driven Iterative Retriever for Enhancing Retrieval-Augmented Generation]
+- [A Reality Check on Context Utilisation for Retrieval-Augmented Generation]
+- [Enhancing Retrieval-Augmented Generation via Evidence Tree Search]
+- [Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation]
+- [Lexical Diversity-aware Relevance Assessment for Retrieval-Augmented Generation]
+- [GRAT: Guiding Retrieval-Augmented Reasoning through Process Rewards Tree Search]
+- [Medical Graph RAG: Evidence-based Medical Large Language Model via Graph Retrieval-Augmented Generation]
+- [LLMs Trust Humans More, That’s a Problem! Unveiling and Mitigating the Authority Bias in Retrieval-Augmented Generation]
+- [Unanswerability Evaluation for Retrieval Augmented Generation]
+- [UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation]
+- [Shifting from Ranking to Set Selection for Retrieval Augmented Generation]
+- [Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop Question Answering]
+- [MEMERAG: A Multilingual End-to-End Meta-Evaluation Benchmark for Retrieval Augmented Generation]
+- [Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs]
+- [SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation]
+- [VISA: Retrieval Augmented Generation with Visual Source Attribution]
+- [Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models]
+- [On the Robustness of RAG Systems in Educational Question Answering under Knowledge Discrepancies]
+- [Pandora’s Box or Aladdin’s Lamp: A Comprehensive Analysis Revealing the Role of RAG Noise in Large Language Models]
+- [DRAG: Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation]
+- [RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework]
+- [TC–RAG: Turing–Complete RAG’s Case study on Medical LLM Systems]
+- [Divide-Then-Align: Honest Alignment based on the Knowledge Boundary of RAG]
+- [HyKGE: A Hypothesis Knowledge Graph Enhanced RAG Framework for Accurate and Reliable Medical LLMs Responses]
+- [Removal of Hallucination on Hallucination: Debate-Augmented RAG]
+- [The Distracting Effect: Understanding Irrelevant Passages in RAG]
+- [The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit]
+- [SGIC: A Self-Guided Iterative Calibration Framework for RAG]
+- [Dialogue-RAG: Enhancing Retrieval for LLMs via Node-Linking Utterance Rewriting]
+- [DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering]
+- [---]
+- [NeuSym-RAG: Hybrid Neural Symbolic Retrieval with Multiview Structuring for PDF Question Answering]
+- [MolRAG: Unlocking the Power of Large Language Models for Molecular Property Prediction]
+- [Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks]
+- [CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG]
+- [Retrieval-Augmented Fine-Tuning With Preference Optimization For Visual Program Generation]
+- [DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics]
+- [MT-RAIG: Novel Benchmark and Evaluation Framework for Retrieval-Augmented Insight Generation over Multiple Tables]
+- [Beyond True or False: Retrieval-Augmented Hierarchical Analysis of Nuanced Claims]
+- [EventRAG: Enhancing LLM Generation with Event Knowledge Graphs]
+
+$fingdings$  
+
+- [Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation]
+- [scRAG: Hybrid Retrieval-Augmented Generation for LLM-based Cross-Tissue Single-Cell Annotation]
+- [Exploring Knowledge Filtering for Retrieval-Augmented Discriminative Tasks]
+- [SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation]
+- [EXIT: Context-Aware Extractive Compression for Enhancing Retrieval-Augmented Generation]
+- [Judge as A Judge: Improving the Evaluation of Retrieval-Augmented Generation through the Judge-Consistency of Large Language Models]
+- [RASD: Retrieval-Augmented Speculative Decoding]
+- [FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs]
+- [Towards Adaptive Memory-Based Optimization for Enhanced Retrieval-Augmented Generation]
+- [Document Segmentation Matters for Retrieval-Augmented Generation]
+- [NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM]
+- [Retrieval-Augmented Process Reward Model for Generalizable Mathematical Reasoning]
+- [EC-RAFT: Automated Generation of Clinical Trial Eligibility Criteria through Retrieval-Augmented Fine-Tuning]
+- [Explainable Depression Detection in Clinical Interviews with Personalized Retrieval-Augmented Generation]
+- [Fine-grained Knowledge Enhancement for Retrieval-Augmented Generation]
+- [RASPberry: Retrieval-Augmented Monte Carlo Tree Self-Play with Reasoning Consistency for Multi-Hop Question Answering]
+- [All That Glitters is Not Gold: Improving Robust Retrieval-Augmented Language Models with Fact-Centric Preference Alignment]
+- [GeAR: Graph-enhanced Agent for Retrieval-augmented Generation]
+- [CtrlA: Adaptive Retrieval-Augmented Generation via Inherent Control]
+- [RoseRAG: Robust Retrieval-augmented Generation with Small-scale LLMs via Margin-aware Preference Optimization]
+- [The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems]
+- [PISCO: Pretty Simple Compression for Retrieval-Augmented Generation]
+- [RAPID: Efficient Retrieval-Augmented Long Text Generation with Writing Planning and Information Discovery]
+- [Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation]
+- [CausalRAG: Integrating Causal Graphs into Retrieval-Augmented Generation]
+- [Toward Structured Knowledge Reasoning: Contrastive Retrieval-Augmented Generation on Experience]
+- [LTRAG: Enhancing autoformalization and self-refinement for logical reasoning with Thought-Guided RAG]
+- [Mitigating Bias in RAG: Controlling the Embedder]
+- [Safeguarding RAG Pipelines with GMTP: A Gradient-based Masked Token Probability Method for Poisoned Document Detection]
+- [ECoRAG: Evidentiality-guided Compression for Long Context RAG]
+- [TreeRAG: Unleashing the Power of Hierarchical Storage for Enhanced Knowledge Retrieval in Long Documents]
+- [HopRAG: Multi-Hop Reasoning for Logic-Aware Retrieval Augmented Generation]
+- [GNN-RAG: Graph Neural Retrieval for Efficient Large Language Model Reasoning on Knowledge Graphs]
+- [SynapticRAG: Enhancing Temporal Memory Retrieval in Large Language Models through Synaptic Mechanisms]
+- [HASH-RAG: Bridging Deep Hashing with Retriever for Efficient, Fine Retrieval and Augmented Generation]
+- [Multilingual Retrieval Augmented Generation for Culturally-Sensitive Tasks: A Benchmark for Cross-lingual Robustness]
+- [GRAF: Graph Retrieval Augmented by Facts for Romanian Legal Multi-Choice Question Answering]
+- [Axiomatic Analysis of Uncertainty Estimation For Retrieval Augmented Generation]
+- [RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment]
+- [TechniqueRAG: Retrieval Augmented Generation for Adversarial Technique Annotation in Cyber Threat Intelligence Text]
+- [LLMs are Biased Evaluators But Not Biased for Retrieval Augmented Generation]
+- [Accelerating Adaptive Retrieval Augmented Generation via Instruction-Driven Representation Reduction of Retrieval Overlaps]
+- [mRAKL: Multilingual Retrieval-Augmented Knowledge Graph Construction for Low-Resourced Languages]
+- [Evaluation of Attribution Bias in Generator-Informed Retrieval-Augmented Large Language Models]
+
+
 
 ### 🔥2025 May
 - May 24 [GainRAG: Preference Alignment in Retrieval-Augmented Generation through Gain Signal Synthesis](https://arxiv.org/pdf/2505.18710) [\[Code\]](https://github.com/liunian-Jay/GainRAG)
