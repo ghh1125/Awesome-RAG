@@ -36,6 +36,7 @@ $main$
 
 Methods & Pipeline & Framework
 - [GainRAG: Preference Alignment in Retrieval-Augmented Generation through Gain Signal Synthesis](https://arxiv.org/pdf/2505.18710) [\[Code\]](https://github.com/liunian-Jay/GainRAG)
+- [FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation](https://arxiv.org/pdf/2506.08938) [\[Code\]](https://github.com/XMUDeepLIT/Faithful-RAG)
 - [RPO: Retrieval Preference Optimization for Robust Retrieval-Augmented Generation](https://arxiv.org/pdf/2501.13726v1)
 - [RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts](https://arxiv.org/pdf/2502.17888)
 - [Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning](https://arxiv.org/pdf/2410.10360)
@@ -52,6 +53,7 @@ Methods & Pipeline & Framework
 - [TC–RAG: Turing–Complete RAG’s Case study on Medical LLM Systems](https://arxiv.org/pdf/2408.09199)
 - [Removal of Hallucination on Hallucination: Debate-Augmented RAG](https://arxiv.org/pdf/2505.18581)
 - [Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks](https://arxiv.org/pdf/2410.01428)
+- [Optimizing Question Semantic Space for Dynamic Retrieval-Augmented Multi-hop Question Answering](https://arxiv.org/pdf/2506.00491)
   
 Benchmark & Evaluation & Analysis
 - [SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model](https://arxiv.org/pdf/2501.18636)
@@ -81,8 +83,6 @@ Application
 
 No original paper link yet
 - [RAG-Critic: Leveraging Automated Critic-Guided Agentic Workflow for Retrieval Augmented Generation]
-- [FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation]
-- [Optimizing Question Semantic Space for Dynamic Retrieval-Augmented Multi-hop Question Answering]
 - [Sparse Latents Steer Retrieval-Augmented Generation]
 - [Lexical Diversity-aware Relevance Assessment for Retrieval-Augmented Generation]
 - [GRAT: Guiding Retrieval-Augmented Reasoning through Process Rewards Tree Search]
