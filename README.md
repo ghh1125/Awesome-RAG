@@ -11,13 +11,14 @@
 |                           |                            |                              |                          |                           | 
 |---------------------------|----------------------------|------------------------------|--------------------------|---------------------------|
 | NIPS 2025 (not yet)       | EMNLP 2025 (not yet)       | [ACL 2025](#ACL-2025)        | [ICML 2025](#ICML-2025)  | [ICLR 2025](#ICLR-2025)   |
-| [NIPS 2024](#NIPS-2024)   | [EMNLP 2024](#EMNLP-2024)  | [ACL 2025](#ACL-2024)        | [ICML 2024](#ICML-2024)  | [ICLR 2024](#ICLR-2024)   |
+| [NIPS 2024](#NIPS-2024)   | [EMNLP 2024](#EMNLP-2024)  | [ACL 2024](#ACL-2024)        | [ICML 2024](#ICML-2024)  | [ICLR 2024](#ICLR-2024)   |
 
 
 ### [🗓️2025 papers](#2025)
 <a name="2025"></a>
 |                                 |                                 |                                 |                                 |                                 |                                 | 
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| [2025 December](not yet)      | [2025 November](not yet)    | [2025 October](not yet)        | [2025 September](not yet)         | [2025 August](not yet)           |[2025 July](#2025-July)          |
 | [2025 June](#2025-June)       | [2025 May](#2025-May)       | [2025 April](#2025-April)       | [2025 March](#2025-March)        | [2025 February](#2025-February)  | [2025 January](#2025-January)   |
 
 
@@ -144,7 +145,17 @@ $fingdings$
 - [Safeguarding RAG Pipelines with GMTP: A Gradient-based Masked Token Probability Method for Poisoned Document Detection]
 - [All That Glitters is Not Gold: Improving Robust Retrieval-Augmented Language Models with Fact-Centric Preference Alignment]
 
-### 🔥2025 June
+### 🔥2025 July
+- Jul 29 [FrugalRAG: Learning to retrieve and reason for multi-hop QA](https://arxiv.org/pdf/2507.07634)
+- Jul 25 [Injecting External Knowledge into the Reasoning Process Enhances Retrieval-Augmented Generation](https://arxiv.org/pdf/2507.19333)
+- Jul 25 [Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation](https://arxiv.org/pdf/2507.19102v1)
+- Jul 23 [HiRAG: Retrieval-Augmented Generation with Hierarchical Knowledge](https://arxiv.org/pdf/2503.10150)
+- Jul 15 [RAG-R1 : Incentivize the Search and Reasoning Capabilities of LLMs through Multi-query Parallelism](https://arxiv.org/pdf/2507.02962)
+
+
+### 🍭2025 June
+- Jun 20 [PreQRAG -- Classify and Rewrite for Enhanced RAG](https://arxiv.org/pdf/2506.17493)
+- Jun 15 [ntra-Trajectory Consistency for Reward Modeling](https://www.arxiv.org/pdf/2506.09096)
 - Jun 5 [Knowledgeable-r1: Policy Optimization for Knowledge Exploration in Retrieval-Augmented Generation](https://arxiv.org/pdf/2506.05154v1)
 - Jun 4 [R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning](https://arxiv.org/pdf/2506.04185v1)
 - Jun 2 [ImpRAG: Retrieval-Augmented Generation with Implicit Queries](https://arxiv.org/pdf/2506.02279)
@@ -156,6 +167,7 @@ $fingdings$
 - May 26 [R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via  Reinforcement Learning](https://arxiv.org/pdf/2505.23794)
 - May 24 [GainRAG: Preference Alignment in Retrieval-Augmented Generation through Gain Signal Synthesis](https://arxiv.org/pdf/2505.18710) [\[Code\]](https://github.com/liunian-Jay/GainRAG)
 - May 23 [Curriculum Guided Reinforcement Learning for Efficient Multi Hop Retrieval Augmented Generation](http://export.arxiv.org/pdf/2505.17391)
+- May 22 [C-3PO: Compact Plug-and-Play Proxy Optimization to Achieve Human-like Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.06205)
 - May 22 [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMsvia Reinforcement Learning](https://arxiv.org/pdf/2505.17005)
 - May 22 [SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis](https://arxiv.org/pdf/2505.16834)
 - May 22 [O<sup>2</sup>-Searcher: A Searching-based Agent Model for Open-Domain Open-Ended Question Answering](https://arxiv.org/pdf/2505.16582)
