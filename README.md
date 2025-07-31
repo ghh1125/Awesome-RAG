@@ -18,7 +18,7 @@
 <a name="2025"></a>
 |                                 |                                 |                                 |                                 |                                 |                                 | 
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| [2025 December](not yet)      | [2025 November](not yet)    | [2025 October](not yet)        | [2025 September](not yet)         | [2025 August](not yet)           |[2025 July](#2025-July)          |
+| 2025 December(not yet)      | 2025 November(not yet)    | 2025 October(not yet)        | 2025 September(not yet)         | 2025 August(not yet)           |[2025 July](#2025-July)          |
 | [2025 June](#2025-June)       | [2025 May](#2025-May)       | [2025 April](#2025-April)       | [2025 March](#2025-March)        | [2025 February](#2025-February)  | [2025 January](#2025-January)   |
 
 
@@ -155,13 +155,13 @@ $fingdings$
 
 ### 🍭2025 June
 - Jun 20 [PreQRAG -- Classify and Rewrite for Enhanced RAG](https://arxiv.org/pdf/2506.17493)
-- Jun 15 [ntra-Trajectory Consistency for Reward Modeling](https://www.arxiv.org/pdf/2506.09096)
+- Jun 15 [Intra-Trajectory Consistency for Reward Modeling](https://www.arxiv.org/pdf/2506.09096)
 - Jun 5 [Knowledgeable-r1: Policy Optimization for Knowledge Exploration in Retrieval-Augmented Generation](https://arxiv.org/pdf/2506.05154v1)
 - Jun 4 [R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning](https://arxiv.org/pdf/2506.04185v1)
 - Jun 2 [ImpRAG: Retrieval-Augmented Generation with Implicit Queries](https://arxiv.org/pdf/2506.02279)
 
 ### 🍭2025 May
-- May [ComposeRAG: A Modular and Composable RAG for Corpus-Grounded Multi-Hop Question Answering](https://arxiv.org/pdf/2506.00232)
+- May 30 [ComposeRAG: A Modular and Composable RAG for Corpus-Grounded Multi-Hop Question Answering](https://arxiv.org/pdf/2506.00232)
 - May 30 [Pangu DeepDiver: Adaptive Search Intensity Scaling via Open-Web Reinforcement Learning](https://arxiv.org/pdf/2505.24332)
 - May 30 [ClueAnchor: Clue-Anchored Knowledge Reasoning Exploration and  Optimization for Retrieval-Augmented Generation](https://arxiv.org/pdf/2505.24388)
 - May 26 [R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via  Reinforcement Learning](https://arxiv.org/pdf/2505.23794)
