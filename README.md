@@ -37,7 +37,7 @@
 - We've updated the papers from 2024! 📄✨
 
 ## 🔥Latest Papers
-### 🥇ACL 2024
+### 🥇ACL 2025
 $main$  
 
 Methods & Pipeline & Framework
