@@ -30,12 +30,12 @@
 | [2024 June](#2024-June)         | [2024 May](#2024-May)           | [2024 April](#2024-Apri)        | [2024 March](#2024-March)         | [2024 February](#2024-February)   | [2024 January](#2024-January)     | 
 
 ## 🔥Latest News
-- We've built the minimal codebase [Simple-AgenticRAG-RL](https://github.com/liunian-Jay/Simple-AgenticRAG-RL) for Deep Research 💻✨ — feel free to contribute and make it better! 🤝🔧
-- We've updated the articles from May and early June! 📅✨
-- We've updated the list of papers accepted by ACL! 📚✅
-- Our [GainRAG](https://arxiv.org/pdf/2505.18710) was accepted by ACL Main! [Code](https://github.com/liunian-Jay/GainRAG) is open-source!! 🚀
+- ✨ We've updated the papers from June and July!    📅✨
+- ✨ We've built a minimal project [simple AgenticRAG-RL](https://github.com/liunian-Jay/Simple-AgenticRAG-RL) 💻✨ — feel free to contribute and make it better! 🤝🔧
+- ✨ We've updated the list of papers accepted by ACL!   📚✅
+- ✨ Our [GainRAG](https://arxiv.org/pdf/2505.18710) was accepted by **ACL Main**! [Code](https://github.com/liunian-Jay/GainRAG) is open-source! 🚀
 - . . .
-- We've updated the papers from 2024! 📄✨
+- ✨ We've updated the papers from 2024! 📄✨
 
 ## 🔥Latest Papers
 ### 🥇ACL 2025
