@@ -38,6 +38,22 @@
 - ✨ We've updated the papers from 2024! 📄✨
 
 ## 🔥Latest Papers
+### 🔥2025 July
+- Jul 29 [FrugalRAG: Learning to retrieve and reason for multi-hop QA](https://arxiv.org/pdf/2507.07634)
+- Jul 25 [Injecting External Knowledge into the Reasoning Process Enhances Retrieval-Augmented Generation](https://arxiv.org/pdf/2507.19333)
+- Jul 25 [Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation](https://arxiv.org/pdf/2507.19102v1)
+- Jul 23 [HiRAG: Retrieval-Augmented Generation with Hierarchical Knowledge](https://arxiv.org/pdf/2503.10150)
+- Jul 15 [RAG-R1 : Incentivize the Search and Reasoning Capabilities of LLMs through Multi-query Parallelism](https://arxiv.org/pdf/2507.02962)
+
+
+### 🍭2025 June
+- Jun 20 [PreQRAG -- Classify and Rewrite for Enhanced RAG](https://arxiv.org/pdf/2506.17493)
+- Jun 15 [Intra-Trajectory Consistency for Reward Modeling](https://www.arxiv.org/pdf/2506.09096)
+- Jun 5 [Knowledgeable-r1: Policy Optimization for Knowledge Exploration in Retrieval-Augmented Generation](https://arxiv.org/pdf/2506.05154v1)
+- Jun 4 [R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning](https://arxiv.org/pdf/2506.04185v1)
+- Jun 2 [ImpRAG: Retrieval-Augmented Generation with Implicit Queries](https://arxiv.org/pdf/2506.02279)
+
+
 ### 🥇ACL 2025
 $main$  
 
@@ -64,6 +80,13 @@ Methods & Pipeline & Framework
 - [UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation](https://openreview.net/attachment?id=h68SaHDtal&name=pdf)
 - [DRAG: Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation](https://arxiv.org/pdf/2506.01954)
 - [Lexical Diversity-aware Relevance Assessment for Retrieval-Augmented Generation](https://openreview.net/pdf?id=omv3VfVIQt)
+- [RAG-Critic: Leveraging Automated Critic-Guided Agentic Workflow for Retrieval Augmented Generation](https://aclanthology.org/2025.acl-long.179.pdf)
+- [Sparse Latents Steer Retrieval-Augmented Generation](https://aclanthology.org/2025.acl-long.228.pdf)
+- [GRAT: Guiding Retrieval-Augmented Reasoning through Process Rewards Tree Search](https://aclanthology.org/2025.acl-long.1352.pdf)
+- [LLMs Trust Humans More, That’s a Problem! Unveiling and Mitigating the Authority Bias in Retrieval-Augmented Generation](https://aclanthology.org/2025.acl-long.1400.pdf)
+- [Shifting from Ranking to Set Selection for Retrieval Augmented Generation](https://aclanthology.org/2025.acl-long.861.pdf)
+- [Dialogue-RAG: Enhancing Retrieval for LLMs via Node-Linking Utterance Rewriting](https://aclanthology.org/2025.acl-long.1191.pdf)
+- [SGIC: A Self-Guided Iterative Calibration Framework for RAG](https://aclanthology.org/2025.acl-long.1376.pdf)
 
 Benchmark & Evaluation & Analysis
 - [SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model](https://arxiv.org/pdf/2501.18636)
@@ -76,6 +99,7 @@ Benchmark & Evaluation & Analysis
 - [Pandora’s Box or Aladdin’s Lamp: A Comprehensive Analysis Revealing the Role of RAG Noise in Large Language Models](https://arxiv.org/pdf/2408.13533)
 - [A Reality Check on Context Utilisation for Retrieval-Augmented Generation](https://arxiv.org/pdf/2412.17031)
 - [MT-RAIG: Novel Benchmark and Evaluation Framework for Retrieval-Augmented Insight Generation over Multiple Tables](https://arxiv.org/pdf/2502.11735)
+- [On the Robustness of RAG Systems in Educational Question Answering under Knowledge Discrepancies](https://aclanthology.org/2025.acl-short.16.pdf)
   
 Chunk & Database
 - [MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System](https://arxiv.org/pdf/2503.09600)
@@ -94,15 +118,7 @@ Application
 - [CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG](https://arxiv.org/pdf/2506.02544)
 - [Retrieval-Augmented Fine-Tuning With Preference Optimization For Visual Program Generation](https://arxiv.org/pdf/2502.16529)
 
-No original paper link yet
-- [RAG-Critic: Leveraging Automated Critic-Guided Agentic Workflow for Retrieval Augmented Generation]
-- [Sparse Latents Steer Retrieval-Augmented Generation]
-- [GRAT: Guiding Retrieval-Augmented Reasoning through Process Rewards Tree Search]
-- [LLMs Trust Humans More, That’s a Problem! Unveiling and Mitigating the Authority Bias in Retrieval-Augmented Generation]
-- [Shifting from Ranking to Set Selection for Retrieval Augmented Generation]
-- [Dialogue-RAG: Enhancing Retrieval for LLMs via Node-Linking Utterance Rewriting]
-- [SGIC: A Self-Guided Iterative Calibration Framework for RAG]
-- [On the Robustness of RAG Systems in Educational Question Answering under Knowledge Discrepancies]
+
 
 
 $fingdings$  
@@ -138,27 +154,13 @@ $fingdings$
 - [LTRAG: Enhancing autoformalization and self-refinement for logical reasoning with Thought-Guided RAG](https://openreview.net/pdf?id=6WQZCc9qQ1)
 - [Toward Structured Knowledge Reasoning: Contrastive Retrieval-Augmented Generation on Experience](https://arxiv.org/pdf/2506.00842)
 - [Document Segmentation Matters for Retrieval-Augmented Generation](https://openreview.net/pdf?id=yToEot3imW)
-- [Exploring Knowledge Filtering for Retrieval-Augmented Discriminative Tasks]
-- [TreeRAG: Unleashing the Power of Hierarchical Storage for Enhanced Knowledge Retrieval in Long Documents]
-- [EC-RAFT: Automated Generation of Clinical Trial Eligibility Criteria through Retrieval-Augmented Fine-Tuning]
-- [RASPberry: Retrieval-Augmented Monte Carlo Tree Self-Play with Reasoning Consistency for Multi-Hop Question Answering]
-- [Safeguarding RAG Pipelines with GMTP: A Gradient-based Masked Token Probability Method for Poisoned Document Detection]
-- [All That Glitters is Not Gold: Improving Robust Retrieval-Augmented Language Models with Fact-Centric Preference Alignment]
+- [Exploring Knowledge Filtering for Retrieval-Augmented Discriminative Tasks](https://aclanthology.org/2025.findings-acl.86.pdf)
+- [TreeRAG: Unleashing the Power of Hierarchical Storage for Enhanced Knowledge Retrieval in Long Documents](https://aclanthology.org/2025.findings-acl.20.pdf)
+- [EC-RAFT: Automated Generation of Clinical Trial Eligibility Criteria through Retrieval-Augmented Fine-Tuning](https://aclanthology.org/2025.findings-acl.491.pdf)
+- [RASPberry: Retrieval-Augmented Monte Carlo Tree Self-Play with Reasoning Consistency for Multi-Hop Question Answering](https://aclanthology.org/2025.findings-acl.587.pdf)
+- [Safeguarding RAG Pipelines with GMTP: A Gradient-based Masked Token Probability Method for Poisoned Document Detection](https://aclanthology.org/2025.findings-acl.1263.pdf)
+- [All That Glitters is Not Gold: Improving Robust Retrieval-Augmented Language Models with Fact-Centric Preference Alignment](https://aclanthology.org/2025.findings-acl.588.pdf)
 
-### 🔥2025 July
-- Jul 29 [FrugalRAG: Learning to retrieve and reason for multi-hop QA](https://arxiv.org/pdf/2507.07634)
-- Jul 25 [Injecting External Knowledge into the Reasoning Process Enhances Retrieval-Augmented Generation](https://arxiv.org/pdf/2507.19333)
-- Jul 25 [Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation](https://arxiv.org/pdf/2507.19102v1)
-- Jul 23 [HiRAG: Retrieval-Augmented Generation with Hierarchical Knowledge](https://arxiv.org/pdf/2503.10150)
-- Jul 15 [RAG-R1 : Incentivize the Search and Reasoning Capabilities of LLMs through Multi-query Parallelism](https://arxiv.org/pdf/2507.02962)
-
-
-### 🍭2025 June
-- Jun 20 [PreQRAG -- Classify and Rewrite for Enhanced RAG](https://arxiv.org/pdf/2506.17493)
-- Jun 15 [Intra-Trajectory Consistency for Reward Modeling](https://www.arxiv.org/pdf/2506.09096)
-- Jun 5 [Knowledgeable-r1: Policy Optimization for Knowledge Exploration in Retrieval-Augmented Generation](https://arxiv.org/pdf/2506.05154v1)
-- Jun 4 [R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning](https://arxiv.org/pdf/2506.04185v1)
-- Jun 2 [ImpRAG: Retrieval-Augmented Generation with Implicit Queries](https://arxiv.org/pdf/2506.02279)
 
 ### 🍭2025 May
 - May 30 [ComposeRAG: A Modular and Composable RAG for Corpus-Grounded Multi-Hop Question Answering](https://arxiv.org/pdf/2506.00232)
@@ -180,7 +182,7 @@ $fingdings$
 - May 6 [An Analysis of Hyper-Parameter Optimization Methods for Retrieval Augmented Generation](https://arxiv.org/pdf/2505.03452)
 - May 5 [Direct Retrieval-augmented Optimization: Synergizing Knowledge Selection and Language Models](https://arxiv.org/pdf/2505.03075)
 - May 2 [Retrieval Augmented Learning: A Retrial-based Large Language Model Self-Supervised Learning and Autonomous Knowledge Generation](https://arxiv.org/pdf/2505.01073)
-  
+
 ### 🍭2025 April
 - Apri 25 [DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering](https://arxiv.org/pdf/2504.18243)
 - Apri 23 [Credible plan-driven RAG method for Multi-hop Question Answering](https://arxiv.org/pdf/2504.16787)
