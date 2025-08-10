@@ -10,7 +10,7 @@
 <a name="Accept"></a>
 |                           |                            |                              |                          |                           | 
 |---------------------------|----------------------------|------------------------------|--------------------------|---------------------------|
-| NIPS 2025 (not yet)       | EMNLP 2025 (not yet)       | [ACL 2025](#ACL-2025)        | [ICML 2025](#ICML-2025)  | [ICLR 2025](#ICLR-2025)   |
+| NIPS 2025 (TBD)       | EMNLP 2025 (TBD)       | [ACL 2025](#ACL-2025)        | [ICML 2025](#ICML-2025)  | [ICLR 2025](#ICLR-2025)   |
 | [NIPS 2024](#NIPS-2024)   | [EMNLP 2024](#EMNLP-2024)  | [ACL 2024](#ACL-2024)        | [ICML 2024](#ICML-2024)  | [ICLR 2024](#ICLR-2024)   |
 
 
@@ -18,7 +18,7 @@
 <a name="2025"></a>
 |                                 |                                 |                                 |                                 |                                 |                                 | 
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| 2025 December(not yet)      | 2025 November(not yet)    | 2025 October(not yet)        | 2025 September(not yet)         | 2025 August(not yet)           |[2025 July](#2025-July)          |
+| 2025 December      | 2025 November    | 2025 October       | 2025 September        | 2025 August           |[2025 July](#2025-July)          |
 | [2025 June](#2025-June)       | [2025 May](#2025-May)       | [2025 April](#2025-April)       | [2025 March](#2025-March)        | [2025 February](#2025-February)  | [2025 January](#2025-January)   |
 
 
@@ -29,13 +29,23 @@
 | [2024 December](#2024-December) | [2024 November](#2024-November) | [2024 October](#2024-October)   | [2024 September](#2024-September) | [2024 August](#2024-August)       |[2024 July](#2024-July)            |
 | [2024 June](#2024-June)         | [2024 May](#2024-May)           | [2024 April](#2024-Apri)        | [2024 March](#2024-March)         | [2024 February](#2024-February)   | [2024 January](#2024-January)     | 
 
+### 🗃️Evaluation Datasets
+<a name="dataset"></a>
+|                                 |                                 |                                 |                                   |                                   |                                   |
+|---------------------------------|---------------------------------|---------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+| [HotpotQA](https://hotpotqa.github.io/) | [2WikiMultiHopQA](https://github.com/Alab-NII/2wikimultihop) | [WebQuestions](https://nlp.stanford.edu/software/sempre/)   | [TriviaQA](http://nlp.cs.washington.edu/triviaqa/) | [MuSiQue](https://github.com/stonybrooknlp/musique)       |[NaturalQA](https://ai.google.com/research/NaturalQuestions)            |
+| [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)         | [PopQA](https://github.com/AlexTMallen/adaptive-retrieval)           | [ASQA](https://github.com/google-research/language/tree/master/language/asqa)        | [Bamboogle](https://huggingface.co/datasets/chiayewken/bamboogle)         | [ARC_Challenge](http://data.allenai.org/arc)   | [PubHealth](https://github.com/luohongyin/unilc)     | 
+
+
+
 ## 🔥Latest News
-- ✨ We've updated the papers from June and July!    📅✨
-- ✨ We've built a minimal project [simple AgenticRAG-RL](https://github.com/liunian-Jay/Simple-AgenticRAG-RL) 💻✨ — feel free to contribute and make it better! 🤝🔧
-- ✨ We've updated the list of papers accepted by ACL!   📚✅
-- ✨ Our [GainRAG](https://arxiv.org/pdf/2505.18710) was accepted by **ACL Main**! [Code](https://github.com/liunian-Jay/GainRAG) is open-source! 🚀
+- ✨We study parametric-retrieved knowledge synergy in [CoCoA](https://arxiv.org/pdf/2508.01696); [Code](https://github.com/liunian-Jay/CoCoA) is open-source!🚀
+- ✨We've updated the papers from June and July!📅
+- ✨We've built a minimal project [AgenticRAG-RL](https://github.com/liunian-Jay/AgenticRAG-RL)🚀 — feel free to contribute and make it better!🤝
+- ✨We've updated the list of papers accepted by ACL! ✅
+- ✨Our [GainRAG](https://arxiv.org/pdf/2505.18710) was accepted by **ACL Main**! [Code](https://github.com/liunian-Jay/GainRAG) is open-source!🚀
 - . . .
-- ✨ We've updated the papers from 2024! 📄✨
+- ✨ We've updated the papers from 2024! 📄
 
 ## 🔥Latest Papers
 ### 🔥2025 July
