@@ -532,6 +532,8 @@ $findings$
 - [Retrieval meets Long Context Large Language Models](https://arxiv.org/pdf/2310.03025)
 - [SuRe: Summarizing Retrievals using Answer Candidates for Open-domain QA of LLMs](https://arxiv.org/pdf/2404.13081)
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=liunian-Jay/Awesome-RAG&type=Date)](https://www.star-history.com/#liunian-Jay/Awesome-RAG&Date)
 
 Welcome to communicate with us by email at jiangyijcx@163.com
