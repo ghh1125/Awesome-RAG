@@ -2,7 +2,7 @@
 🤖 List of recent developments in Retrieval-Augmented Generation (RAG) for large language models (LLM).  
 🤗 We welcome and encourage researchers to submit pull requests to update information in their papers!  
 💡 This repo is still being improved and updated, and a general framework is being built, so stay tuned!  
-📫 Feel free to email us at jiangyijcx@163.com if you're interested in maintaining or improving this project repository.
+📫 Feel free to email us at jiangyijcx@163.com if you're interested in improving this project repository.
 
 
 ## 📕Overview
@@ -10,7 +10,7 @@
 <a name="Accept"></a>
 |                           |                            |                              |                          |                           | 
 |---------------------------|----------------------------|------------------------------|--------------------------|---------------------------|
-| NIPS 2025 (TBD)       | EMNLP 2025 (TBD)       | [ACL 2025](#ACL-2025)        | [ICML 2025](#ICML-2025)  | [ICLR 2025](#ICLR-2025)   |
+| NIPS 2025        | EMNLP 2025     | [ACL 2025](#ACL-2025)        | [ICML 2025](#ICML-2025)  | [ICLR 2025](#ICLR-2025)   |
 | [NIPS 2024](#NIPS-2024)   | [EMNLP 2024](#EMNLP-2024)  | [ACL 2024](#ACL-2024)        | [ICML 2024](#ICML-2024)  | [ICLR 2024](#ICLR-2024)   |
 
 
@@ -18,16 +18,16 @@
 <a name="2025"></a>
 |                                 |                                 |                                 |                                 |                                 |                                 | 
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| 2025 December      | 2025 November    | 2025 October       | 2025 September        | 2025 August           |[2025 July](#2025-July)          |
-| [2025 June](#2025-June)       | [2025 May](#2025-May)       | [2025 April](#2025-April)       | [2025 March](#2025-March)        | [2025 February](#2025-February)  | [2025 January](#2025-January)   |
+| 2025.12     | 2025.11    | 2025.10       | 2025.09        | 2025.08           |[2025.07](#2025-July)          |
+| [2025.06](#2025-June)       | [2025.05](#2025-May)       | [2025.04](#2025-April)       | [2025.03](#2025-March)        | [2025.02](#2025-February)  | [2025.01](#2025-January)   |
 
 
 ### [🗓️2024 papers](#2024)
 <a name="2024"></a>
 |                                 |                                 |                                 |                                   |                                   |                                   |
 |---------------------------------|---------------------------------|---------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-| [2024 December](#2024-December) | [2024 November](#2024-November) | [2024 October](#2024-October)   | [2024 September](#2024-September) | [2024 August](#2024-August)       |[2024 July](#2024-July)            |
-| [2024 June](#2024-June)         | [2024 May](#2024-May)           | [2024 April](#2024-Apri)        | [2024 March](#2024-March)         | [2024 February](#2024-February)   | [2024 January](#2024-January)     | 
+| [2024.12](#2024-December) | [2024.11](#2024-November) | [2024.10](#2024-October)   | [2024.09](#2024-September) | [2024.08](#2024-August)       |[2024.07](#2024-July)       |
+| [2024.06](#2024-June)     | [2024 .05](#2024-May)     | [2024.04](#2024-Apri)      | [2024.03](#2024-March)     | [2024.02](#2024-February)     | [2024.01](#2024-January)     | 
 
 ### 🗃️Evaluation Datasets
 <a name="dataset"></a>
@@ -41,17 +41,33 @@
 ## 🔥Latest News
 - ✨We study parametric-retrieved knowledge synergy in [CoCoA](https://arxiv.org/pdf/2508.01696); [Code](https://github.com/liunian-Jay/CoCoA) is open-source!🚀
 - ✨We've updated the papers from June and July!📅
-- ✨We've built a minimal project [AgenticRAG-RL](https://github.com/liunian-Jay/AgenticRAG-RL)🚀 — feel free to contribute and make it better!🤝
+- ✨We've built a minimal project [AgenticRAG-RL](https://github.com/liunian-Jay/AgenticRAG-RL)🚀 — feel free to contribute!🤝
 - ✨We've updated the list of papers accepted by ACL! ✅
 - ✨Our [GainRAG](https://arxiv.org/pdf/2505.18710) was accepted by **ACL Main**! [Code](https://github.com/liunian-Jay/GainRAG) is open-source!🚀
 - . . .
 - ✨ We've updated the papers from 2024! 📄
 
 ## 🔥Latest Papers
-### 🔥2025 July
+### 🔥2025 August
+- Aug 18 [LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval](https://arxiv.org/pdf/2508.10391)
+- Aug 15 [Cross-Granularity Hypergraph Retrieval-Augmented Generation for Multi-hop Question Answering](https://arxiv.org/pdf/2508.11247)
+- Aug 14 [SSRL: Self-Search Reinforcement Learning](https://arxiv.org/pdf/2508.10874)
+- Aug 14 [ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](https://arxiv.org/pdf/2508.10419)
+- Aug 13 [Towards Self-cognitive Exploration: Metacognitive Knowledge Graph Retrieval Augmented Generation](https://arxiv.org/pdf/2508.09460v1)
+- Aug 12 [READER: Retrieval-Assisted Drafter for Efficient LLM Inference](https://arxiv.org/abs/2508.09072)
+- Aug 11 [Careful Queries, Credible Results: Teaching RAG Models Advanced Web Search Tools with Reinforcement Learning](https://arxiv.org/pdf/2508.07956)
+- Aug 10 [PrLM: Learning Explicit Reasoning for Personalized RAG via Contrastive Reward Optimization](https://arxiv.org/pdf/2508.07342)
+- Aug 8 [UR<sup>2</sup>: Unify RAG and Reasoning through Reinforcement Learning](https://arxiv.org/pdf/2508.06165)
+- Aug 8 [Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation](https://arxiv.org/pdf/2508.05909v1)
+- Aug 7 [BEE-RAG: Balanced Entropy Engineering for Retrieval-Augmented Generation](https://www.arxiv.org/pdf/2508.05100)
+- Aug 5 [Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy](https://arxiv.org/pdf/2508.01696)
+
+  
+### 🍭2025 July
 - Jul 29 [FrugalRAG: Learning to retrieve and reason for multi-hop QA](https://arxiv.org/pdf/2507.07634)
 - Jul 25 [Injecting External Knowledge into the Reasoning Process Enhances Retrieval-Augmented Generation](https://arxiv.org/pdf/2507.19333)
 - Jul 25 [Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation](https://arxiv.org/pdf/2507.19102v1)
+- Jul 25 [Query-Aware Graph Neural Networks for Enhanced Retrieval-Augmented Generation](https://www.arxiv.org/pdf/2508.05647)
 - Jul 23 [HiRAG: Retrieval-Augmented Generation with Hierarchical Knowledge](https://arxiv.org/pdf/2503.10150)
 - Jul 15 [RAG-R1 : Incentivize the Search and Reasoning Capabilities of LLMs through Multi-query Parallelism](https://arxiv.org/pdf/2507.02962)
 
@@ -177,6 +193,7 @@ $fingdings$
 - May 30 [Pangu DeepDiver: Adaptive Search Intensity Scaling via Open-Web Reinforcement Learning](https://arxiv.org/pdf/2505.24332)
 - May 30 [ClueAnchor: Clue-Anchored Knowledge Reasoning Exploration and  Optimization for Retrieval-Augmented Generation](https://arxiv.org/pdf/2505.24388)
 - May 26 [R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via  Reinforcement Learning](https://arxiv.org/pdf/2505.23794)
+- May 26 [Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers](https://arxiv.org/pdf/2505.20128)
 - May 24 [GainRAG: Preference Alignment in Retrieval-Augmented Generation through Gain Signal Synthesis](https://arxiv.org/pdf/2505.18710) [\[Code\]](https://github.com/liunian-Jay/GainRAG)
 - May 23 [Curriculum Guided Reinforcement Learning for Efficient Multi Hop Retrieval Augmented Generation](http://export.arxiv.org/pdf/2505.17391)
 - May 22 [C-3PO: Compact Plug-and-Play Proxy Optimization to Achieve Human-like Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.06205)
