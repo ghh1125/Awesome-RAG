@@ -39,11 +39,12 @@
 
 
 ## 🔥Latest News
-- ✨We study parametric-retrieved knowledge synergy in [CoCoA](https://arxiv.org/pdf/2508.01696); [Code](https://github.com/liunian-Jay/CoCoA) is open-source!🚀
+- ✨We've updated the papers from August!📅
+- ✨We study parametric-retrieved knowledge synergy in [CoCoA](https://arxiv.org/pdf/2508.01696); [Code](https://github.com/liunian-Jay/CoCoA) open-source!🚀
 - ✨We've updated the papers from June and July!📅
-- ✨We've built a minimal project [AgenticRAG-RL](https://github.com/liunian-Jay/AgenticRAG-RL)🚀 — feel free to contribute!🤝
+- ✨We've built a minimal project [AgenticRAG-RL](https://github.com/liunian-Jay/AgenticRAG-RL)🚀 — Feel free to contribute!🤝
 - ✨We've updated the list of papers accepted by ACL! ✅
-- ✨Our [GainRAG](https://arxiv.org/pdf/2505.18710) was accepted by **ACL Main**! [Code](https://github.com/liunian-Jay/GainRAG) is open-source!🚀
+- ✨Our [GainRAG](https://arxiv.org/pdf/2505.18710) accepted at **ACL Main**! [Code](https://github.com/liunian-Jay/GainRAG) open-source!🚀
 - . . .
 - ✨ We've updated the papers from 2024! 📄
 
@@ -55,12 +56,16 @@
 - Aug 14 [ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](https://arxiv.org/pdf/2508.10419)
 - Aug 13 [Towards Self-cognitive Exploration: Metacognitive Knowledge Graph Retrieval Augmented Generation](https://arxiv.org/pdf/2508.09460v1)
 - Aug 12 [READER: Retrieval-Assisted Drafter for Efficient LLM Inference](https://arxiv.org/abs/2508.09072)
+- Aug 12 [REX-RAG: Reasoning Exploration with Policy Correction in Retrieval-Augmented Generation](https://arxiv.org/pdf/2508.08149)
+- Aug 11 [LAG: Logic-Augmented Generation from a Cartesian Perspective](https://arxiv.org/pdf/2508.05509)
 - Aug 11 [Careful Queries, Credible Results: Teaching RAG Models Advanced Web Search Tools with Reinforcement Learning](https://arxiv.org/pdf/2508.07956)
 - Aug 10 [PrLM: Learning Explicit Reasoning for Personalized RAG via Contrastive Reward Optimization](https://arxiv.org/pdf/2508.07342)
 - Aug 8 [UR<sup>2</sup>: Unify RAG and Reasoning through Reinforcement Learning](https://arxiv.org/pdf/2508.06165)
 - Aug 8 [Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation](https://arxiv.org/pdf/2508.05909v1)
 - Aug 7 [BEE-RAG: Balanced Entropy Engineering for Retrieval-Augmented Generation](https://www.arxiv.org/pdf/2508.05100)
+- Aug 6 [PAIRS: Parametric–Verified Adaptive Information Retrieval and Selection for Efficient RAG](https://arxiv.org/pdf/2508.04057)
 - Aug 5 [Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy](https://arxiv.org/pdf/2508.01696)
+- Aug 1 [MAO-ARAG: Multi-Agent Orchestration for Adaptive Retrieval-Augmented Generation](https://arxiv.org/pdf/2508.01005)
 
   
 ### 🍭2025 July
